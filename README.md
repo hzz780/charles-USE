@@ -20,4 +20,6 @@ System Preferences > Network > Advanced > Proxies
 
 记得把其它的对于chrome的代理关掉。
 
+对了，用完记得把web代理关掉，不然你的chrome就没法联网了
+
 不要告诉我你居然没有全局的VPN
